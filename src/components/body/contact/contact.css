@@ -1,0 +1,23 @@
+.contact-container {
+    background: #eeee;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+.email-link {
+    text-decoration: none;
+    font-style: italic;
+}
+
+.contact-text {
+    font-size: 20px;
+}
+
+.faq-text {
+    padding: 10px;
+    text-align: center;
+}

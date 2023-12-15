@@ -1,0 +1,20 @@
+.about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content {
+    margin: 10px;
+    width: 75%;
+    font-size: 16px;
+}
+
+h1 {
+    margin: 10px;
+}
+
+p {
+    font-size: 16px;
+}
