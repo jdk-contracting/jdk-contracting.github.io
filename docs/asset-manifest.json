@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97de8724.css",
+    "main.js": "/static/js/main.68f00994.js",
+    "static/js/787.b5290a56.chunk.js": "/static/js/787.b5290a56.chunk.js",
+    "static/media/BATHROOM_2.jpg": "/static/media/BATHROOM_2.aa47cfff83c6fc6c04d0.jpg",
+    "static/media/KITCHEN_4.jpg": "/static/media/KITCHEN_4.d92c87110efa2234f32a.jpg",
+    "static/media/BATHROOM_1.jpg": "/static/media/BATHROOM_1.7d8729c29a793123cb0a.jpg",
+    "static/media/KITCHEN_1.jpg": "/static/media/KITCHEN_1.d30ad2ff606ecb1bd2c1.jpg",
+    "static/media/KITCHEN_3.jpg": "/static/media/KITCHEN_3.a13d02b48164e9af6491.jpg",
+    "static/media/BACKSPLASH_2.jpg": "/static/media/BACKSPLASH_2.fde3f714da78773e510a.jpg",
+    "static/media/BACKSPLASH_3.jpg": "/static/media/BACKSPLASH_3.5d3e2aae556a8ceca2ed.jpg",
+    "static/media/KITCHEN_2.jpg": "/static/media/KITCHEN_2.16bdf3f4ecbe3c42ae9a.jpg",
+    "static/media/BACKSPLASH_1.jpg": "/static/media/BACKSPLASH_1.6544ea651d5281c9c12c.jpg",
+    "index.html": "/index.html",
+    "main.97de8724.css.map": "/static/css/main.97de8724.css.map",
+    "main.68f00994.js.map": "/static/js/main.68f00994.js.map",
+    "787.b5290a56.chunk.js.map": "/static/js/787.b5290a56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97de8724.css",
+    "static/js/main.68f00994.js"
+  ]
+}
