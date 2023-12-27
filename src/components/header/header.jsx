@@ -7,7 +7,7 @@ const Header = () => {
 
   return (
     <div className="header">
-      <div className="header-text"> SSJV Industry </div>
+      <div className="header-text"> SJJV Industry </div>
       {/* <div className="menu">
         <MenuIcon
           onClick={() => setDisplayMenuState((prevState) => !prevState)}

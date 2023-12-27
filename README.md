@@ -10,7 +10,7 @@ Welcome to the repository for SJJV Industry. This site serves as a digital flyer
 
 ## Assets 
 
-All photo images used are and owned by SSJV Industry. Please contact us if you wish to use our assets. 
+All photo images used are and owned by SJJV Industry. Please contact us if you wish to use our assets. 
 
 ## Technologies Used
 
