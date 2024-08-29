@@ -39,7 +39,7 @@ const Contact = () => {
       <h1 className="form-header">Contact Us!</h1>
       <div className="contact-text">
         Reach us at
-        <a className="email-link" href="mailto:stevekotsopoulos083@gmail.com">
+        <a className="email-link" href="mailto:ajrenovation9@gmail.com">
           &nbsp;ajrenovation9@gmail.com&nbsp;
         </a>
         or call us at 416-888-1476
