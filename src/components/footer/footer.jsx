@@ -3,7 +3,7 @@ import "./footer.css";
 const Footer = () => {
   return (
     <div className="footer">
-      SJJV Industry 2024 © Copyright - All Rights Reserved
+      AJ Renovations 2024 © Copyright - All Rights Reserved
     </div>
   );
 };

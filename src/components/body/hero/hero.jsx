@@ -4,7 +4,7 @@ import "./hero.css";
 const Hero = () => {
   return (
     <div className="hero">
-      <div className="hero-text"> Welcome to SJJV Industry! </div>
+      <div className="hero-text"> Welcome to AJ Renovations! </div>
       <img className="hero-image" alt="Hero Img" src={image} />
     </div>
   );

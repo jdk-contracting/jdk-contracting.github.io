@@ -5,7 +5,7 @@ const About = () => {
     <div className="about-section">
       <h1> About Us </h1>
       <p className="content">
-        Welcome to SJJV Industry here we offer a wide range of services such
+        Welcome to AJ Renovations here we offer a wide range of services such
         as kitchen removals and installations, bathroom removals and
         installations, flooring removals and installations, backsplash removals
         and installations! Please feel free to contact us and we'll come by to

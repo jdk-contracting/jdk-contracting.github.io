@@ -1,6 +1,6 @@
-# SJJV Industry
+# AJ Renovations
 
-Welcome to the repository for SJJV Industry. This site serves as a digital flyer to showcase the contact information and excellent work that is done by SJJV Industry.
+Welcome to the repository for AJ Renovations. This site serves as a digital flyer to showcase the contact information and excellent work that is done by AJ Renovations.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ Welcome to the repository for SJJV Industry. This site serves as a digital flyer
 
 ## Assets 
 
-All photo images used are and owned by SJJV Industry. Please contact us if you wish to use our assets. 
+All photo images used are and owned by AJ Renovations. Please contact us if you wish to use our assets. 
 
 ## Technologies Used
 
